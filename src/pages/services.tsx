@@ -20,14 +20,14 @@ export default function Services() {
                 <Head>
                     <title>Services | Yahyea Almuwail</title>
                     <meta name="description" content="Flutter Development, Performance Optimization, Type-Safe Codebases, and Design-to-Code services by Yahyea Almuwail." />
-                    <link rel="canonical" href="https://mayaralsalem.vercel.app/services" />
+                    <link rel="canonical" href="https://yahyea-almuwail.vercel.app/services" />
                     <script type="application/ld+json" dangerouslySetInnerHTML={{
                         __html: JSON.stringify({
                             "@context": "https://schema.org",
                             "@type": "ProfessionalService",
                             name: "Yahyea Almuwail",
                             serviceType: ["Flutter Development", "Performance Optimization", "Type-Safe Codebases", "Design-to-Code"],
-                            url: "https://mayaralsalem.vercel.app/services"
+                            url: "https://yahyea-almuwail.vercel.app/services"
                         })
                     }} />
                 </Head>

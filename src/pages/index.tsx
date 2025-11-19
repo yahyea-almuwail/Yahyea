@@ -43,7 +43,7 @@ export default function Home() {
               "@context": "https://schema.org",
               "@type": "WebPage",
               name: "Yahyea Almuwail",
-              url: "https://mayaralsalem.vercel.app",
+              url: "https://yahyea-almuwail.vercel.app",
               description: "Flutter Developer portfolio and services by Yahyea Almuwail."
             })
           }}

@@ -30,7 +30,7 @@ export default function About() {
             <Head>
                 <title>About Me | Yahyea Almuwail</title>
                 <meta name="description" content="Learn about Yahyea Almuwail, a flutter developer specializing in React, Next.js, Tailwind CSS, and TypeScript. Based in Damascus University graduate." />
-                <link rel="canonical" href="https://mayaralsalem.vercel.app/about" />
+                <link rel="canonical" href="https://yahyea-almuwail.vercel.app/about" />
                 <script type="application/ld+json" dangerouslySetInnerHTML={{
                     __html: JSON.stringify({
                         "@context": "https://schema.org",
@@ -38,7 +38,7 @@ export default function About() {
                         name: "Yahyea Almuwail",
                         jobTitle: "Flutter Developer",
                         alumniOf: "Damascus University",
-                        url: "https://mayaralsalem.vercel.app/about",
+                        url: "http://yahyea-almuwail.vercel.app/about",
                         sameAs: [
                             "https://github.com/yahyea-almuwail",
                             "https://t.me/Yahyea_al",
